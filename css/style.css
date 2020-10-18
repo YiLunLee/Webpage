@@ -1,0 +1,62 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/templates/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 50px 0 50px 0px;
+}
+.home {
+  padding: 200px 0 150px 0px;
+}
+.home-text {
+	/* text-align: left !important; */
+	color: white;
+	text-shadow: black 0.2em 0.2em 0.3em;
+}
+.home-photo {
+	border-radius: 50%;
+ 	width: auto;
+	height: auto;
+}
+.home-block {
+	padding-top: 100 px;
+	padding-bottom: 50 px;
+}
+
+.section-heading {
+	text-align: right !important;
+}
+
+.parallax-container {
+  margin-top: -80px;
+  min-height: 400px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+.text-sty {
+	font-size: 18px;
+}
+.paper-block {
+	background-color: white;
+	font-size: 16px !important;
+}
+.paper-title {
+	padding-top: 10px;
+	/* padding-bottom: 5px; */
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	
+}
+.paper-author {
+	font-size: 16px !important;	
+}
+.paper-conference {
+	font-style: italic !important;
+}
